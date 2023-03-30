@@ -1,0 +1,7 @@
+/* input {
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-bottom: 1px solid black  !important; 
+    outline: none !important; /* remove a borda quando o input está em foco */
+  

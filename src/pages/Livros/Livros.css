@@ -1,0 +1,12 @@
+td {
+  vertical-align: middle;
+  text-align: center;
+}
+
+td img {
+  height: 200px;
+}
+
+thead {
+  text-align: center;
+}
