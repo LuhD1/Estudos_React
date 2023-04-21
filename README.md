@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![React Badge](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
